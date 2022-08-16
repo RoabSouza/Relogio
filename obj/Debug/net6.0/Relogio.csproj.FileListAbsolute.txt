@@ -1,0 +1,30 @@
+C:\Users\roabs\Desktop\Nova pasta (2)\bin\Debug\net6.0\Relogio.exe
+C:\Users\roabs\Desktop\Nova pasta (2)\bin\Debug\net6.0\Relogio.deps.json
+C:\Users\roabs\Desktop\Nova pasta (2)\bin\Debug\net6.0\Relogio.runtimeconfig.json
+C:\Users\roabs\Desktop\Nova pasta (2)\bin\Debug\net6.0\Relogio.dll
+C:\Users\roabs\Desktop\Nova pasta (2)\bin\Debug\net6.0\Relogio.pdb
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.csproj.AssemblyReference.cache
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.AssemblyInfoInputs.cache
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.AssemblyInfo.cs
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.dll
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\refint\Relogio.dll
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.pdb
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\Relogio.genruntimeconfig.cache
+C:\Users\roabs\Desktop\Nova pasta (2)\obj\Debug\net6.0\ref\Relogio.dll
+C:\Users\roabs\Desktop\Relogio\bin\Debug\net6.0\Relogio.exe
+C:\Users\roabs\Desktop\Relogio\bin\Debug\net6.0\Relogio.deps.json
+C:\Users\roabs\Desktop\Relogio\bin\Debug\net6.0\Relogio.runtimeconfig.json
+C:\Users\roabs\Desktop\Relogio\bin\Debug\net6.0\Relogio.dll
+C:\Users\roabs\Desktop\Relogio\bin\Debug\net6.0\Relogio.pdb
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.csproj.AssemblyReference.cache
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.AssemblyInfoInputs.cache
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.AssemblyInfo.cs
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.dll
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\refint\Relogio.dll
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.pdb
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\Relogio.genruntimeconfig.cache
+C:\Users\roabs\Desktop\Relogio\obj\Debug\net6.0\ref\Relogio.dll
